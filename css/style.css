@@ -633,7 +633,7 @@ ul {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(42, 40, 40, 0.76); }
+    background-color: #02aff3; }
 
 blockquote {
   padding: 15px 20px;
@@ -772,7 +772,7 @@ blockquote.quote {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(34, 34, 34, 0.644); }
+    background-color: #eb268f; }
   .banner-page .content-wrap {
     padding: 60px 0; }
   .banner-page .title-page {
@@ -794,7 +794,7 @@ blockquote.quote {
       color: white; }
       .banner-page .breadcrumb > .active:hover,
       .banner-page .breadcrumb a:hover {
-        color: #FD4D40; }
+        color: #000; }
 
 .overlap {
   background-color: #ffffff;
@@ -2321,14 +2321,14 @@ TABS
   border: 1px solid #e6e6e6;
   border-top-left-radius: 0;
   border-top-right-radius: 0;
-  color: #246e02;
+  color: #02aff3;
   font-size: 18px;
   font-weight: 700;
   padding: 0.5rem 3rem; }
   .rs-tabs .nav-tabs .nav-link.active {
-    background-color: #246e02;
+    background-color: #02aff3;
     color: #ffffff;
-    border-color: #246e02; }
+    border-color: #02aff3; }
 .rs-tabs .tab-content {
   padding: 30px;
   background-color: #fafafa;
@@ -2666,7 +2666,7 @@ Back To Top Section
     /* END STIKY */ }
     .header-1 .navbar-main .active > .nav-link {
       color: #ffffff;
-      background-color: #246e02; }
+      background-color: #02aff3; }
     .header-1 .navbar-main .nav-link {
       color: #222222;
       padding: .5rem 1.5rem;
@@ -2678,7 +2678,7 @@ Back To Top Section
       -ms-border-radius: 30px;
       border-radius: 30px; }
       .header-1 .navbar-main .nav-link:hover {
-        color: #246e02;
+        color: #02aff3;
         background-color: transparent; }
     .header-1 .navbar-main.stiky {
       height: auto;
@@ -2714,7 +2714,7 @@ Back To Top Section
       .header-1 .navbar-main.stiky .nav-link {
         /*color: $navbar-stiky-color;*/ }
         .header-1 .navbar-main.stiky .nav-link:hover, .header-1 .navbar-main.stiky .nav-link:focus {
-          color: #246e02; }
+          color: #02aff3; }
 
 @media (max-width: 767px) {
   .header-1 .navbar-main {
