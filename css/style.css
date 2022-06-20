@@ -772,7 +772,7 @@ blockquote.quote {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #eb268f; }
+    background-color: #f9b759; }
   .banner-page .content-wrap {
     padding: 60px 0; }
   .banner-page .title-page {
@@ -916,17 +916,17 @@ blockquote.quote {
   -moz-border-radius: 30px;
   -ms-border-radius: 30px;
   border-radius: 30px;
-  background-color: #f7f8a0 !important;
+  background-color: #f9b759 !important;
   box-shadow: 5px 0px 5px; 
 }
 .btn:hover,.btn-secondary:hover,.btn-primary:hover{
-  background-color: #ca8504 !important;
+  background-color: #f9b759 !important;
   transition: 1s;
   color: white;
   text-emphasis-color: white;
 }
 .btn-default {
-  background-color: #FD4D40;
+  background-color: #f9b759;
   color: #ffffff;
   padding: 15px 20px;
   border: 0;
@@ -942,7 +942,7 @@ blockquote.quote {
   background-color: #FD4D40;
   color: #ffffff; }
   .btn-primary:hover {
-    background-color: #ddab0f;
+    background-color: #f9b759;
     color: #ffffff; }
 
 .btn-secondary {
@@ -2464,7 +2464,7 @@ Back To Top Section
   overflow: hidden;
   text-indent: 100%;
   white-space: nowrap;
-  background: #eb268f url("../images/cd-top-arrow.svg") no-repeat center 50%;
+  background: #dedfa7 url("../images/cd-top-arrow.svg") no-repeat center 50%;
   visibility: hidden;
   opacity: 0;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
@@ -2494,7 +2494,7 @@ Back To Top Section
     filter: alpha(opacity=50); }
 
 .progress-bar {
-  background-color: #eb268f; }
+  background-color: #dedfa7; }
 
 .rs-progress .name {
   color: #222222;
