@@ -549,9 +549,9 @@ ul {
   margin-top: 0;
   padding-bottom: 5px;
   position: relative;
-  color: #eb268f; }
+  color: #1f1a17; }
   .section-heading.light {
-    color: #eb268f; }
+    color: #1f1a17; }
     .section-heading.light span {
       color: #ffffff; }
     .section-heading.light:after {
@@ -633,7 +633,7 @@ ul {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #02aff3; }
+    background-color: #1f1a17; }
 
 blockquote {
   padding: 15px 20px;
@@ -695,10 +695,10 @@ blockquote.quote {
   font-family: "Open Sans", sans-serif; }
 
 .bg-primary {
-  background-color: #eb268f !important; }
+  background-color: #1f1a17 !important; }
 
-.bg-secondary {
-  background-color: #bebfc1 !important; }
+/* .bg-secondary {
+  background-color: #bebfc1 !important; } */
 
 .bg-tertiary {
   background-color: #02aff3 !important; }
@@ -744,7 +744,7 @@ blockquote.quote {
       color: #999999; }
 
 .text-secondary {
-  color: #F1C22E !important; }
+  color: #1f1a17 !important; }
 
 .text-white a {
   color: #ffffff; }
@@ -772,7 +772,7 @@ blockquote.quote {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #f9b759; }
+    background-color: #1f1a17; }
   .banner-page .content-wrap {
     padding: 60px 0; }
   .banner-page .title-page {
@@ -2494,7 +2494,7 @@ Back To Top Section
     filter: alpha(opacity=50); }
 
 .progress-bar {
-  background-color: #dedfa7; }
+  background-color: #1f1a17; }
 
 .rs-progress .name {
   color: #222222;
@@ -2666,7 +2666,7 @@ Back To Top Section
     /* END STIKY */ }
     .header-1 .navbar-main .active > .nav-link {
       color: #ffffff;
-      background-color: #02aff3; }
+      background-color: #1f1a17; }
     .header-1 .navbar-main .nav-link {
       color: #222222;
       padding: .5rem 1.5rem;
