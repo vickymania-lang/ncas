@@ -2738,7 +2738,7 @@ Back To Top Section
     right: 0;
     bottom: 0;
     left: 0;
-    background-color: rgba(34, 34, 34, 0.178);
+    /* background-color: rgba(34, 34, 34, 0.178); */
     z-index: 1; }
   .banner .owl-theme {
     height: 100%; }
