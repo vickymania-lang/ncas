@@ -772,7 +772,7 @@ blockquote.quote {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #1f1a17; }
+    background-color: #02aff3; }
   .banner-page .content-wrap {
     padding: 60px 0; }
   .banner-page .title-page {
@@ -2627,7 +2627,7 @@ Back To Top Section
     padding: 0.2rem 0;
     margin-top: 0;
     border-width: 0;
-    background-color: #333333;
+    background-color: #02aff3;
     color: #ffffff;
     font-size: 14px; }
   .navbar-main .dropdown-item {
@@ -2666,7 +2666,7 @@ Back To Top Section
     /* END STIKY */ }
     .header-1 .navbar-main .active > .nav-link {
       color: #ffffff;
-      background-color: #1f1a17; }
+      background-color: #02aff3; }
     .header-1 .navbar-main .nav-link {
       color: #222222;
       padding: .5rem 1.5rem;
